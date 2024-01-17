@@ -1,4 +1,4 @@
-# Exercise 02 - Atomic Design
+# Week 3 - Exercise 01 - Atomic Design
 
 ## Instructions:
 
