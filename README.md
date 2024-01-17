@@ -1,4 +1,4 @@
-# Exercise 02 Atomic Design
+# Exercise 02 - Atomic Design
 
 ## Instructions:
 
