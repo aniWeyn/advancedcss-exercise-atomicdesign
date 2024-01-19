@@ -14,4 +14,10 @@
 
 **Submit**: Compile your findings into a Readme.md file, including the screenshots and your analysis. Submit the Readme.md through the GitHub Classroom by Friday 16:00.
 
+**Recources**:  
+[Atomic Design: Atomic design is for user interfaces](https://atomicdesign.bradfrost.com/chapter-2/#atomic-design-is-for-user-interfaces)  
+[AdvancedCSS2024: Atomic Design](https://incredible-pie-c7721f.netlify.app/week3/atomicdesign/)
+
+
+
 Good luck! 
